@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Katlyn Joy</h1>
+<h2 align="left">Hi 👋, I'm Katlyn Joy</h2>
 💻 Computer Science Student at Cavite State University - Silang Campus
 
 <p align="left">
