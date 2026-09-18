@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Katlyn Joy</h2>
-<p>💻 Computer Science Student at Cavite State University - Silang Campus</p>
+<p>💻 Computer Science Graduate at Cavite State University - Silang Campus</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
